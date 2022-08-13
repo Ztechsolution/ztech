@@ -1,0 +1,43 @@
+body{background-color:#f2f7f7;
+}
+
+.brand {
+	display: flex ;
+	
+}
+
+.brand h1{
+  color: white;
+  text-shadow: 1px 5px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  font-size: 45px;
+  flex:1;
+ 
+}
+.contact{
+	font-size:50px;
+    color:red;
+	text-align:center;
+	
+}
+.con{
+	font-size:23px;
+    color:002aff;
+	text-align:center;
+	font-weight:bold;
+}
+.cont{
+	text-align:center;
+	font-size:30px;
+	color:green;
+	
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   background-color:#7142ff;
+   color:white;
+   font-weight:bold;
+}
